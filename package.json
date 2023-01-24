@@ -1,0 +1,19 @@
+{
+  "name": "adwebhw2",
+  "version": "1.0.0",
+  "description": "Homework2 of Ad_Web Course",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meetkool/shuter-game.git"
+  },
+  "author": "Song Hao",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.4.6",
+    "three": "^0.77.1"
+  }
+}
